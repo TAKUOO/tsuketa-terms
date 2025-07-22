@@ -4,8 +4,8 @@
 
 ## 公開ページ
 
-- [利用規約 (Terms of Use)](https://yourname.github.io/tsuketa-policies/terms.html)
-- [プライバシーポリシー (Privacy Policy)](https://yourname.github.io/tsuketa-policies/privacy.html)
+- [利用規約 (Terms of Use)](https://takuoo.github.io/tsuketa-terms/terms.html)
+- [プライバシーポリシー (Privacy Policy)](https://takuoo.github.io/tsuketa-terms/privacy.html)
 
 ## アプリについて
 - アプリ名：つけた！
